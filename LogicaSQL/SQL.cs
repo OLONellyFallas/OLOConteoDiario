@@ -11,6 +11,8 @@ namespace LogicaSQL
 {
     public class SQL
     {
+        // agregando cambios para probar commit
+
         #region Variables
 
         private String sCadenaConexion;                 //cadena para el acceso a datos
